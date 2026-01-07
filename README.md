@@ -3,6 +3,8 @@
 KiCad 9 project for an LED + Button board.  
 Includes PCB and schematic files, as well as resources for testing and production.
 
+![Mini LED BTN Board](img/mini-led-btn-board.png)
+
 ## Repository Structure
 
 ### Folders
@@ -26,3 +28,7 @@ Includes PCB and schematic files, as well as resources for testing and productio
 ## Read More
 
 For more details, see the related article: _coming soon..._
+
+## Acknowledgements
+
+Special thanks to [**PCBWay**](https://www.pcbway.com) for supporting this project and for PCB manufacturing.
